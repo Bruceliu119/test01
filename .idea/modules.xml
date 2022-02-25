@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CRM_Project.iml" filepath="$PROJECT_DIR$/CRM_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/for_git/for_git.iml" filepath="$PROJECT_DIR$/for_git/for_git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
+    </modules>
+  </component>
+</project>
